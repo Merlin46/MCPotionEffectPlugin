@@ -1,0 +1,6 @@
+name: potionEffectInterval
+main: com.gmail.mihir.tad.potionEffectInterval.primary
+version: 1
+commands:
+  IntervalEffectsOn:
+api-version: 1.16
